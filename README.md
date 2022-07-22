@@ -1,6 +1,6 @@
 
 # relational-db-practice
-Build a Celestial Bodies Database
+1. ##Build a Celestial Bodies Database
 
 
 Instructions
@@ -55,3 +55,5 @@ All columns named name should be of type VARCHAR
 Each primary key column should follow the naming convention table_name_id. For example, the moon table should have a primary key column named moon_id
 
 Each foreign key column should have the same name as the column it is referencing
+
+2.  ##create a Bash script that uses SQL to enter information about your computer science students into PostgreSQL.
